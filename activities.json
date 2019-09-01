@@ -1,0 +1,289 @@
+{
+    "activities": [
+        {
+            "name": "*Python 3.6.6 Shell*",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:18:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2019-09-01 11:18:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:18:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2019-09-01 11:18:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:18:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2019-09-01 11:18:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:22:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2019-09-01 11:22:51"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:18:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "start_time": "2019-09-01 11:18:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:18:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "start_time": "2019-09-01 11:18:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:18:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "start_time": "2019-09-01 11:18:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:18:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "start_time": "2019-09-01 11:18:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:18:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "start_time": "2019-09-01 11:18:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:18:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "start_time": "2019-09-01 11:18:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:21:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "start_time": "2019-09-01 11:21:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:22:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "start_time": "2019-09-01 11:22:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:22:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "start_time": "2019-09-01 11:22:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:22:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "start_time": "2019-09-01 11:22:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:22:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "start_time": "2019-09-01 11:22:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:22:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2019-09-01 11:22:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:23:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2019-09-01 11:22:55"
+                }
+            ]
+        },
+        {
+            "name": "youtube.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:18:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "start_time": "2019-09-01 11:18:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:18:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "start_time": "2019-09-01 11:18:28"
+                }
+            ]
+        },
+        {
+            "name": "Task Switching",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:18:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "start_time": "2019-09-01 11:18:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:18:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "start_time": "2019-09-01 11:18:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:18:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2019-09-01 11:18:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:22:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2019-09-01 11:22:25"
+                }
+            ]
+        },
+        {
+            "name": "Time.py - C:\\Users\\Tarun\\Desktop\\TimeManager\\Time.py (3.6.6)",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:21:48",
+                    "hours": 0,
+                    "minutes": 3,
+                    "seconds": 15,
+                    "start_time": "2019-09-01 11:18:33"
+                }
+            ]
+        },
+        {
+            "name": "AutoTimer/autotimer.py at master \u00b7 KalleHallden/AutoTimer \u00b7 GitHub and 3 more pages \u200e- Microsoft Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:21:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2019-09-01 11:21:49"
+                }
+            ]
+        },
+        {
+            "name": "GitHub - KalleHallden/AutoTimer and 3 more pages \u200e- Microsoft Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:22:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 29,
+                    "start_time": "2019-09-01 11:21:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:22:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "start_time": "2019-09-01 11:22:47"
+                }
+            ]
+        },
+        {
+            "name": "TimeManager",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:22:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2019-09-01 11:22:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:22:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0,
+                    "start_time": "2019-09-01 11:22:47"
+                }
+            ]
+        },
+        {
+            "name": "Kill?",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2019-09-01 11:22:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2019-09-01 11:22:53"
+                }
+            ]
+        }
+    ]
+}
